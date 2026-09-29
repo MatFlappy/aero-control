@@ -1,0 +1,7 @@
+streamlit
+ultralytics
+torch
+opencv-python
+numpy
+pyyaml
+pyodbc
